@@ -1,4 +1,4 @@
-![image](https://github.com/deep0ne/golang-leetcode/assets/63643499/8bee2b00-98fe-42bd-80d7-d4d7947eb49a)
+![image](https://github.com/deep0ne/golang-leetcode/assets/63643499/94c1afcc-a057-409f-8ad2-563db7407776)
 
 # golang-leetcode
 Репозиторий с решением задач leetcode на golang
